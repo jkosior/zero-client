@@ -21,7 +21,7 @@ function initializeZeroClient() {
     //   cb(null, result)
     // },
     getAccounts: function(cb){
-      cb(null, ['0x8F331A98aC5C9431d04A5d6Bf8Fa84ed7Ed439f3'])
+      cb(null, ['0x8F331A98aC5C9431d04A5d6Bf8Fa84ed7Ed439f3'.toLowerCase()])
     },
     // tx signing
     // approveTransaction: addUnconfirmedTx,
