@@ -1,4 +1,6 @@
 ### architecture
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/MetaMask/zero-client.svg)](https://greenkeeper.io/)
 here is a comparison of the extension-based and iframe-based architecture
 
 metamask extension:
